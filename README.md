@@ -1,6 +1,8 @@
 # todoapp
 
 A new Flutter project.
+![Screenshot 2023-12-31 130958](https://github.com/HeyIamMarasiniAmrit/Todo-App/assets/101445427/75244864-4c30-4c7e-8e0a-d265a1a48c39)
+
 
 ## Getting Started
 
